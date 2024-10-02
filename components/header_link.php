@@ -1,5 +1,5 @@
 <?php $path = '/Human_Resources-Web/' ?>
-<?php $path = '/UM-Web/' ?>
+<?php $path_um = '/UM-Web/' ?>
 
 <!-- Favicons -->
 <link href="<?= $path ?>assets/img/favicon.png" rel="icon">
