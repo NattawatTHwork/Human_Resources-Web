@@ -1,4 +1,5 @@
-<?php $path = '/Human_Resources-Web/' ?>
+<?php $path = dirname(dirname($_SERVER['SCRIPT_NAME'])) . '/'; ?>
+<?php $path_link = '/' ?>
 <?php $path_um = '/UM-Web/' ?>
 
 <!-- Favicons -->
