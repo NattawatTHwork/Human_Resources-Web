@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Time Attendance</title>
+    <title>เวลาเข้า-ออกงาน</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -22,12 +22,12 @@
     <main id="main" class="main">
 
         <div class="pagetitle">
-            <h1>Time Attendance</h1>
+            <h1>เวลาเข้า-ออกงาน</h1>
             <nav>
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                    <li class="breadcrumb-item">Time Attendances</li>
-                    <li class="breadcrumb-item active">Time Attendance</li>
+                    <li class="breadcrumb-item"><a href="index.php">หน้าหลัก</a></li>
+                    <li class="breadcrumb-item">เวลาเข้า-ออกงาน</li>
+                    <li class="breadcrumb-item active">เวลาเข้า-ออกงาน</li>
                 </ol>
             </nav>
         </div><!-- End Page Title -->

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Event Detail</title>
+    <title>รายละเอียดกิจกรรม</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -25,9 +25,9 @@
             <h1>Event</h1>
             <nav>
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                    <li class="breadcrumb-item">Event Details</li>
-                    <li class="breadcrumb-item active">Evente Detail</li>
+                    <li class="breadcrumb-item"><a href="index.php">หน้าหลัก</a></li>
+                    <li class="breadcrumb-item">รายละเอียดกิจกรรม</li>
+                    <li class="breadcrumb-item active">รายละเอียดกิจกรรม</li>
                 </ol>
             </nav>
         </div><!-- End Page Title -->
